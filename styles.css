@@ -1323,7 +1323,7 @@ body {
 }
 
 .footer-column-links a:hover {
-  color: #25282c;
+  color: #ffffff;
 }
 
 /* Footer Bottom Row */
@@ -1368,7 +1368,7 @@ body {
 }
 
 .social-icon:hover {
-  background: #ffffff;
+  background: #5d5dff;
   transform: translateY(-2px);
 }
 
